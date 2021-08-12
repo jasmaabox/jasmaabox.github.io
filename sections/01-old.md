@@ -11,7 +11,7 @@ Abandoned after I upgraded Kuiperbowl to v3. I also got tired of running into bu
 ### NG Signal Challenge
 
 Our team's submission to Northrop's 2019 signal challenge. The goal was to accurately classify
-a wide variety of sounds into 17 classes. We tried to do this by scraping soundbites off Google
+a wide variety of sounds into 27 classes. We tried to do this by scraping soundbites off Google
 AudioSet and training ResNet to classify the waveforms via transfer learning. It did not work.
 
 ### Wiki Ladders
