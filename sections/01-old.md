@@ -36,14 +36,6 @@ I made a physics demo with words that collided into each other a la Monogatari. 
 to do polygonal collision afterwards or maybe break up each character into polygons and try and form a mural.
 Neither seemed very easy or fulfilling, so I stopped.
 
-### py-fpff
-
-There was a problem at UMD CTF dealing with a toy file format called FPFF. The gist was to follow the FPFF
-spec and manually decode the files, so I thought it would be fun to make a tool for it. For the most part, py-fpff
-works and was my first package on PyPi. However, barring the fact that no one actually uses FPFF, I have regrets
-with the way I designed and wrote the tool and ended up yanking the package and archiving the repo. Perhaps I may
-formally re-work it and re-release it in the future.
-
 ### Elf on the Shelf
 
 A script I made in high school that would automatically generate Elf on the Shelf memes and tweet them to
