@@ -3,28 +3,29 @@ title: Dead
 description: Incomplete projects that I stopped working on.
 ---
 
-### Cartoon Avatar
+### ICFPC 2024
 
-*Apr 2020 - May 2020*
+*Jun 2024*
 
-Early on into the pandemic, I came across a project called
-[avatarify](https://github.com/alievk/avatarify-python) which used the power of
-ML to let people's facial movements drive static image animation. This would
-output a video stream that could then be fed via a virtual OBS camera into Zoom,
-allowing you to show up in meetings with a funny avatar controlled by your face.
-Live2D Vtubers were also taking off around this time, so I thought to combine
-these two and try to make a shitty clone of Live2D in the spirit of avatarify.
+I saw a link to the [2024 ICPF Contest](https://icfpcontest2024.github.io/) on
+Lobsters and thought I would give it a try. I got as far as making a REPL to
+talk with the server and en/decode strings before I realized I was severely
+outclassed in most of the problems. I didn't really want to spend the rest of my
+weekend trying to solve Traveling Salesman (or discovering that I did not in
+fact need to solve Traveling Salesman), so I quit.
 
-My version was much simpler and just used perspective transformations to warp
-images for each facial landmark. I then stitched all the images with some
-scaling and translation into one and streamed it to an OpenCV window. The window
-could then be captured in OBS and output as a virtual webcam, same as avatarify.
-When I tested it out in Zoom, it worked terribly since Python (and my computer)
-is obscenely slow. I also remember calling my friends with it, and they got
-extremely confused, watching a video of a dilapidated Miho lag out on Discord.
 
-Disappointed with the results and having much newfound respect for the quality
-of Live2D, I stopped working on this one.
+### Cedar Blocks
+
+*Sep 2023 - Oct 2023*
+
+I wanted to make something with Cedar policies and thought, "Wouldn't be cool if
+you could compose security policies in a block-based environment?" Then I tried
+to learn [Blockly](https://developers.google.com/blockly/) which fried the last
+remaining neurons in my brain as I slowly discovered that it is very difficult
+to define more complicated structures in Blockly. Also I got really tired of the
+blocks and also extremely unmotivated to work on it after I realized that no one
+would realistically use it anyways, so I stopped.
 
 
 ### Processing Diary
