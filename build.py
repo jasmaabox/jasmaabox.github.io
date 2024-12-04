@@ -55,4 +55,6 @@ def build(build_dir: str = './build'):
 
 
 if __name__ == '__main__':
+    print("Starting build...")
     build()
+    print("Done!")
