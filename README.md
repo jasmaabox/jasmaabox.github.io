@@ -6,9 +6,16 @@ A resting place for abandoned projects.
 
 Install dependencies and build the site with:
 
-    pip install -r "requirements.txt"
-    python build.py
+```
+python -m venv .venv
+source .venv/bin/activate
+
+pip install -r requirements.txt
+python build.py
+```
 
 Serve with:
 
-    npx serve ./build
+```
+npx serve ./build
+```
