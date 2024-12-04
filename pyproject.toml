@@ -1,0 +1,11 @@
+[project]
+name = "jasmaabox-github-io"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jinja2>=3.1.4",
+    "marko>=2.1.2",
+    "python-frontmatter>=1.1.0",
+]

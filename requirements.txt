@@ -1,5 +1,0 @@
-Jinja2==3.1.4
-marko==1.1.0
-MarkupSafe==2.0.1
-python-frontmatter==1.0.0
-PyYAML==6.0.2
