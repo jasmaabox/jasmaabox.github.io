@@ -4,14 +4,10 @@ A resting place for abandoned projects.
 
 ## Getting Started
 
-Install dependencies and build the site with:
+Build the site with:
 
 ```
-python -m venv .venv
-source .venv/bin/activate
-
-pip install -r requirements.txt
-python build.py
+uv run build.py
 ```
 
 Serve with:
