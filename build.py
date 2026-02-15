@@ -1,5 +1,6 @@
 import os
 import shutil
+from datetime import datetime
 import marko
 import frontmatter
 from jinja2 import Environment, FileSystemLoader
@@ -14,11 +15,11 @@ def parse_section(section_path: str) -> str:
     """
     section = frontmatter.load(section_path)
     return {
-        'title': section['title'],
-        'description': section['description'],
+        'title': section.get('title'),
+        'start_date': section.get('start_date'),
+        'end_date': section.get('end_date'),
         'content': marko.convert(section.content),
     }
-
 
 def render_site(sections_dir: str = './sections'):
     """Renders site.
@@ -26,6 +27,7 @@ def render_site(sections_dir: str = './sections'):
     # Build sections
     section_fnames = os.listdir(sections_dir)
     section_fnames.sort()
+    section_fnames = section_fnames[::-1]
     sections = []
     for fname in section_fnames:
         sections.append(parse_section(os.path.join(sections_dir, fname)))

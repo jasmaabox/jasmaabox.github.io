@@ -1,10 +1,7 @@
-<div class="d-flex flex-column align-items-center">
-  <div class="divider my-4"></div>
-  <h2 class="display-4 text-center">{{ section.title | e}}</h2>
-  <p class="text-center">{{ section.description | e}}</p>
-  <div class="divider my-4"></div>
-</div>
-
 <div class="section mb-5">
-  {{ section.content }}
+  <h3>{{ section.title | e}}</h3>
+  <p>
+    <em>{{ section.start_date.strftime('%b %Y') }} - {{ section.end_date.strftime('%b %Y') }}</em>
+    {{ section.content }}
+  </p>
 </div>

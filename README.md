@@ -13,5 +13,5 @@ uv run build.py
 Serve with:
 
 ```
-npx serve ./build
+uv run python -m http.server -d ./build 8080
 ```
