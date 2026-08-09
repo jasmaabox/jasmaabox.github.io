@@ -2,6 +2,7 @@
 title: Chattering With Me
 start_date: 2017-10-01
 end_date: 2018-11-01
+repo_url: https://github.com/jasmaabox/chatroom
 ---
 
 This was a pseudo-anonymous chatroom and one of my first web projects. I had

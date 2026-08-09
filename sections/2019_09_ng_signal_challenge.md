@@ -2,6 +2,7 @@
 title: NG Signal Challenge
 start_date: 2019-09-01
 end_date: 2019-10-01
+repo_url: https://github.com/jasmaabox/signal-classification
 ---
 
 Our team's submission to Northrop's 2019 signal challenge. The goal was to

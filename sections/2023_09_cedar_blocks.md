@@ -2,6 +2,7 @@
 title: Cedar Blocks
 start_date: 2023-09-01
 end_date: 2023-10-01
+repo_url: https://github.com/jasmaabox/cedar-blocks
 ---
 
 I wanted to make something with Cedar policies and thought, "Wouldn't be cool if

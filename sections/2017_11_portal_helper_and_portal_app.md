@@ -2,6 +2,7 @@
 title: Portal Helper & Portal App
 start_date: 2017-11-01
 end_date: 2018-01-01
+repo_url: https://github.com/jasmaabox/portalhelper
 ---
 
 A Java API and Android app made with a friend that attempted to interface with

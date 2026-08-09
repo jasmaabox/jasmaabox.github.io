@@ -2,6 +2,7 @@
 title: Kuiperbowl Mobile
 start_date: 2019-09-01
 end_date: 2019-12-01
+repo_url: https://github.com/jasmaabox/kuiperbowl-mobile
 ---
 
 A native mobile client for my quizbowl platform, Kuiperbowl, and my first foray

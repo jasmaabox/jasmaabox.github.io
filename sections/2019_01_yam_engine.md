@@ -2,6 +2,7 @@
 title: Yam Engine
 start_date: 2019-01-01
 end_date: 2019-02-01
+repo_url: https://github.com/jasmaabox/yam-engine
 ---
 
 After finding out about Mogura Engine, I wanted to make my own 2D game engine in

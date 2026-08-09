@@ -2,6 +2,7 @@
 title: CMSC Undergrad Calendar
 start_date: 2018-09-01
 end_date: 2018-09-01
+repo_url: https://github.com/jasmaabox/cmsc-undergrad-calendar
 ---
 
 I've already written a blog post about this one on my main site. The gist of it

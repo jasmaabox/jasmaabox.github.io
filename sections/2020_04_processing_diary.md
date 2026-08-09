@@ -2,6 +2,7 @@
 title: Processing Diary
 start_date: 2020-04-01
 end_date: 2020-04-01
+repo_url: https://github.com/jasmaabox/processing-diary
 ---
 
 I became enamored by Processing GIFs on Twitter at some point. Believing I could

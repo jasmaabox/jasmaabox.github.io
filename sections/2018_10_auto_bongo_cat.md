@@ -2,6 +2,7 @@
 title: Auto Bongo Cat
 start_date: 2018-10-01
 end_date: 2018-10-01
+repo_url: https://github.com/jasmaabox/auto-bongo-cat
 ---
 
 Bongo cat videos were all the rage back then. I thought it would be cool if I

@@ -2,6 +2,7 @@
 title: Cartoon Avatar
 start_date: 2020-04-01
 end_date: 2020-05-01
+repo_url: https://github.com/jasmaabox/cartoon-avatar
 ---
 
 Early on into the pandemic, I came across a project called

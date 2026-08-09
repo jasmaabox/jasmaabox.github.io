@@ -2,6 +2,7 @@
 title: Squidync
 start_date: 2024-02-01
 end_date: 2024-03-01
+repo_url: https://github.com/jasmaabox/squidync
 ---
 
 I was already a big user of [Hyperbeam](https://hyperbeam.com/) for watch parties and had tried out [Roll Together](https://chromewebstore.google.com/detail/roll-together/ilpfeljgdikoabaclkjgkbeegeoijfca?hl=en-US) before. Armed with my experience from making niconico-yt, I wanted to see if I could make something nicer that could also support chat messaging.

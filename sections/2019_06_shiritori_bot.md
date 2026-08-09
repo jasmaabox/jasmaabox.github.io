@@ -2,6 +2,7 @@
 title: Shiritori Bot
 start_date: 2019-06-01
 end_date: 2019-06-01
+repo_url: https://github.com/jasmaabox/shiritori-bot
 ---
 
 I used to be really into Reddit. I was also really into learning Japanese. These

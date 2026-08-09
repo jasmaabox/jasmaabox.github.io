@@ -17,6 +17,7 @@ def parse_section(section_path: str) -> str:
         "title": section.get("title"),
         "start_date": section.get("start_date"),
         "end_date": section.get("end_date"),
+        "repo_url": section.get("repo_url"),
         "content": marko.convert(section.content),
     }
 

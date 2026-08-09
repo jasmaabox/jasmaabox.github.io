@@ -2,6 +2,7 @@
 title: Wiki Ladders
 start_date: 2019-04-01
 end_date: 2019-04-01
+repo_url: https://github.com/jasmaabox/wiki-ladders
 ---
 
 I wanted to turn the game [Wiki

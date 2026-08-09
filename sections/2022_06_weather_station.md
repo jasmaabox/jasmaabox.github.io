@@ -2,6 +2,7 @@
 title: Weather Station
 start_date: 2022-06-01
 end_date: 2022-12-01
+repo_url: https://github.com/jasmaabox/weather-station
 ---
 
 I wanted to try my hand at more hardware projects and thought a weather station

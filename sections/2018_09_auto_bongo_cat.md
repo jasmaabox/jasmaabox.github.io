@@ -2,6 +2,7 @@
 title: Emergency Vehicle Finder
 start_date: 2018-09-01
 end_date: 2018-11-01
+repo_url: https://github.com/jasmaabox/emergency-vehicle-finder
 ---
 
 Our team's submission to Northrop's 2018 image classification challenge. I did

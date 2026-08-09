@@ -2,6 +2,7 @@
 title: Foodlebug
 start_date: 2019-02-01
 end_date: 2019-04-01
+repo_url: https://github.com/jasmaabox/foodlebug
 ---
 
 After seeing the disorganized manner by which college students pawn off leftover

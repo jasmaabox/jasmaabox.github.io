@@ -1,5 +1,7 @@
 <div class="section mb-5">
-  <h3>{{ section.title | e}}</h3>
+  <a href="{{ section.repo_url }}">
+    <h3>{{ section.title | e}}</h3>
+  </a>
   <p>
     <em>{{ section.start_date.strftime('%b %Y') }} - {{ section.end_date.strftime('%b %Y') }}</em>
     {{ section.content }}

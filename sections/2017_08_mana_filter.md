@@ -2,6 +2,7 @@
 title: Mana Filter
 start_date: 2017-08-01
 end_date: 2018-09-01
+repo_url: https://github.com/jasmaabox/ManaFilter
 ---
 
 One of my earliest repos on GitHub. I was a summer intern <s>playing with</s>

@@ -2,6 +2,7 @@
 title: It's Ac Caption Dumper
 start_date: 2019-07-01
 end_date: 2019-08-01
+repo_url: https://github.com/jasmaabox/its-ac-caption-dumper
 ---
 
 [It's Academic](https://en.wikipedia.org/wiki/It's_Academic) (It's Ac) is a

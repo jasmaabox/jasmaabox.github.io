@@ -2,6 +2,7 @@
 title: Acorn Identifier
 start_date: 2018-10-01
 end_date: 2018-10-01
+repo_url: https://github.com/jasmaabox/acorn-identifier
 ---
 
 I had found a infographic explaining how to identify different types of acorns

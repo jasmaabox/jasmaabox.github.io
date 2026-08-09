@@ -2,6 +2,7 @@
 title: Elf on the Shelf
 start_date: 2018-04-01
 end_date: 2018-05-01
+repo_url: https://github.com/jasmaabox/elf-on-the-shelf
 ---
 
 A script I made in high school that would automatically generate Elf on the
